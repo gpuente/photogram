@@ -8,6 +8,13 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
+	PaperClip Gem (Requires ImageMagick Installed).
+
+	This application requires have installed ImageMagick on your system and change to right path configuration on enviroment: config/enviroments/{development}.rb
+	You must add the next line to the file:
+	Paperclip.options[:command_path] = "/usr/local/bin/"
+
+	See more information: https://github.com/thoughtbot/paperclip
 
 * Configuration
 
