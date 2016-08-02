@@ -17,6 +17,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'haml'
 # Use Paperclip to upload post images
 gem "paperclip", "~> 5.0.0"
+# Use simple_form to make easy forms
+gem 'simple_form'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
