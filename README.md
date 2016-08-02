@@ -16,6 +16,9 @@ Things you may want to cover:
 
 	See more information: https://github.com/thoughtbot/paperclip
 
+	This application uses simple_form gem
+	please see the installation instructions on: https://github.com/plataformatec/simple_form
+
 * Configuration
 
 * Database creation
